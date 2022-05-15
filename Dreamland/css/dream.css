@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 70%;
+  top: 180%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -32,6 +32,9 @@ h2 {
     font-family:"houschka-rounded", Arial, sans-serif;
     padding: 50px;
     border-radius: 20px;
+}
+span {
+    color: #dd8bb3;
 }
 
 body {
