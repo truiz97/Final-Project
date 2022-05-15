@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 145%;
+  top: 160%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -36,7 +36,7 @@ h2 {
 }
 
 span {
-
+  color: #dd8bb3;
 }
 
 body {
