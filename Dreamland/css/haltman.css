@@ -19,11 +19,11 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 85%;
+  top: 165%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
-  height:auto;
+  height: auto;
   padding: 245px;
 }
 h2 {
