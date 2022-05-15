@@ -8,10 +8,10 @@ body {
 h1 img {
   margin: 0;
    position: absolute;
-   top: 30%;
+   top: 35%;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 75%;
+   width: 45%;
    height:auto;
    padding: 50px;
 }
@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 65%;
+  top: 130%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -32,6 +32,9 @@ h2 {
     font-family:"houschka-rounded", Arial, sans-serif;
     padding: 25px;
     border-radius: 20px;
+}
+span {
+    color: #dd8bb3;
 }
 
 body {
