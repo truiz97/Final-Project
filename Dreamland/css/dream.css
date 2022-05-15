@@ -8,10 +8,10 @@ body {
 h1 img {
   margin: 0;
    position: absolute;
-   top: 30%;
+   top: 45vh;
    left: 50%;
    transform: translate(-50%, -50%);
-   width: 75%;
+   width: 90%;
    height:auto;
    padding: 50px;
 }
@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 210%;
+  top: 210vh;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;

@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 150%;
+  top: 160vh;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
