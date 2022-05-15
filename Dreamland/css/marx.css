@@ -19,7 +19,7 @@ h1 img {
 .info {
   margin: 5px;
   position: absolute;
-  top: 150%;
+  top: 140%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -29,14 +29,14 @@ h1 img {
 
 h2 {
     background-image: linear-gradient(#fff5ff, #d9ecfa);
-    color: #240838;
-    font-family:"houschka-rounded", Arial, sans-serif;
+    color: #6d509f;
+    font-family:"houschka rounded", Arial, sans-serif;
     padding: 50px;
     border-radius: 20px;
 }
 
 span {
-    color: #dd8bb3;
+
 }
 
 body {
